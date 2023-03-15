@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dmitry-savitsky.github.io/rsschool-cv/cv
