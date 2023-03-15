@@ -21,7 +21,7 @@
 * JavaScript Basics
 * C#
 * VS Code, Visual Studio
-* Adobe Photoshop, Premiere
+* Adobe Photoshop, Premiere, Figma
 *********
 > ##### Code example:
 ```javascript
