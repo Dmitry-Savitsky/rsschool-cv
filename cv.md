@@ -30,4 +30,10 @@ function multiplication (a, b) {
   return x;
 }
 ```
+```javascript
+function division (a, b) {
+  let x = a / b;
+  return x;
+}
+```
 > ##### English level: B1
